@@ -8,4 +8,5 @@ The laboratory project consists in developing a Java application that implements
 
 The files in the repository have been uploaded as follows:
 * **TestoProgetto.pdf**: pdf file showing the delivery of the project developed by the professor
-* **Relazione**: project developed by the students
+* **MailClient**: contains all the code for developing the client-side application
+* **MailServer**: contains all the code for developing the server-side application
