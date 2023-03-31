@@ -1,6 +1,6 @@
 # PROG3 - Programming 3
-Laboratory of Programming 3, Computer Science Course - A.Y. 2022/2023
-Department of Computer Science, University of Turin
+Laboratory of Programming 3, Computer Science Course - A.Y. 2022/2023  
+Department of Computer Science, University of Turin  
 Teacher: Liliana Ardissono
 
 ## Lab project
