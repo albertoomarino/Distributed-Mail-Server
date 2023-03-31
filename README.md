@@ -1,2 +1,11 @@
-# PROG3
-Programming Project 3 (PROG3) carried out at the University of Turin in collaboration with Samuele Perrotta and Anita Scanu
+# PROG3 - Programming 3
+Laboratory of Programming 3, Computer Science Course - A.Y. 2022/2023
+Department of Computer Science, University of Turin
+Teacher: Liliana Ardissono
+
+## Lab project
+The laboratory project consists in developing a Java application that implements an e-mail service organized with a mail server that manages users' e-mail boxes and the mail clients needed to allow users to access their mailboxes.
+
+The files in the repository have been uploaded as follows:
+* **TestoProgetto.pdf**: pdf file showing the delivery of the project developed by the professor
+* **Relazione**: project developed by the students
