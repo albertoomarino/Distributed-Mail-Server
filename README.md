@@ -1,12 +1,24 @@
-# PROGIII - Programming III
-Laboratory of Programming III, Computer Science Course - A.Y. 2022/2023  
-Department of Computer Science, University of Turin  
-Teacher: Liliana Ardissono
+# Programming 3
 
-## Lab project
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Files](#files)
+- [License](#license)
+
+## Introduction
+
 The laboratory project consists in developing a Java application that implements an e-mail service organized with a mail server that manages users' e-mail boxes and the mail clients needed to allow users to access their mailboxes.
 
+## Files
+
 The files in the repository have been uploaded as follows:
-* **TestoProgetto.pdf**: pdf file showing the delivery of the project developed by the professor
-* **MailClient**: contains all the code for developing the client-side application
-* **MailServer**: contains all the code for developing the server-side application
+* **project_specifications.pdf**: pdf file showing the delivery of the project developed by the professor;
+* **MailClient**: contains all the code for developing the client-side application;
+* **MailServer**: contains all the code for developing the server-side application.
+
+## License
+
+This project is licensed under the [MIT License](https://github.com/albertoomarino/programming-3/blob/main/LICENSE).
+
+© [Alberto Marino]
